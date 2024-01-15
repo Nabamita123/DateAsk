@@ -287,11 +287,12 @@ li.checked {
     text-align: center;
     }
 .x{
-    color: rgb(90, 90, 90);
+    color: rgb(66, 47, 47);
 }
 #content2 {
     display: none; /* Initially hide the content */
     text-align: center;
     /* Adjust as needed */
-    transform: translateY(-0%);
+    transform: translateY(-60%);
+    font-size: 0.8em;
 }
